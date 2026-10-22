@@ -1,6 +1,5 @@
-# Kopi's Field Notes — ES5008 study app
+# Kopi's Field Notes
 
-A study app for ES5008 *The Biodiversity and Natural History of Singapore*. It follows a learn → recall → space-it-out loop.
 
 ## Run it
 
