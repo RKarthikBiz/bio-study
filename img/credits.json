@@ -1,0 +1,657 @@
+{
+ "hevea": {
+  "query": "Hevea brasiliensis",
+  "matched": "Hevea brasiliensis",
+  "credit": "(c) Cheongweei Gan, some rights reserved (CC BY-SA), uploaded by Cheongweei Gan"
+ },
+ "elaeis": {
+  "query": "Elaeis guineensis",
+  "matched": "Elaeis guineensis",
+  "credit": "(c) Fabr\u00edcio Mil Homens Riella, some rights reserved (CC BY), uploaded by Fabr\u00edcio Mil Homens Riella"
+ },
+ "falcataria": {
+  "query": "Falcataria moluccana",
+  "matched": "Falcataria falcata",
+  "credit": "no rights reserved, uploaded by \u8449\u5b50"
+ },
+ "spathodea": {
+  "query": "Spathodea campanulata",
+  "matched": "Spathodea campanulata",
+  "credit": "(c) squirrelwatcher019, some rights reserved (CC BY-NC), uploaded by squirrelwatcher019"
+ },
+ "adinandra": {
+  "query": "Adinandra dumosa",
+  "matched": "Adinandra dumosa",
+  "credit": "(c) 106611639464075912591, some rights reserved (CC BY-NC-SA), uploaded by 106611639464075912591"
+ },
+ "dicranopteris": {
+  "query": "Dicranopteris linearis",
+  "matched": "Dicranopteris linearis",
+  "credit": "(c) \u535a\u752b, some rights reserved (CC BY-NC), uploaded by \u535a\u752b"
+ },
+ "platycerium": {
+  "query": "Platycerium coronarium",
+  "matched": "Platycerium coronarium",
+  "credit": "(c) hyla_21, all rights reserved"
+ },
+ "grammatophyllum": {
+  "query": "Grammatophyllum speciosum",
+  "matched": "Grammatophyllum speciosum",
+  "credit": "(c) Steven Chong, some rights reserved (CC BY-NC), uploaded by Steven Chong"
+ },
+ "nypa": {
+  "query": "Nypa fruticans",
+  "matched": "Nypa fruticans",
+  "credit": "(c) seasav, some rights reserved (CC BY-NC-ND), uploaded by seasav"
+ },
+ "tacca": {
+  "query": "Tacca integrifolia",
+  "matched": "Tacca integrifolia",
+  "credit": "(c) Cheongweei Gan, some rights reserved (CC BY), uploaded by Cheongweei Gan"
+ },
+ "nepenthes": {
+  "query": "Nepenthes gracilis",
+  "matched": "Nepenthes gracilis",
+  "credit": "(c) \u8a31\u9806\u696d Koh Soon Yap, all rights reserved, uploaded by \u8a31\u9806\u696d Koh Soon Yap"
+ },
+ "macaranga": {
+  "query": "Macaranga bancana",
+  "matched": "Macaranga bancana",
+  "credit": "(c) Steven Kurniawidjaja, some rights reserved (CC BY-NC), uploaded by Steven Kurniawidjaja"
+ },
+ "sterculia": {
+  "query": "Sterculia macrophylla",
+  "matched": "Sterculia macrophylla",
+  "credit": "(c) Lena Chow, all rights reserved, uploaded by Lena Chow"
+ },
+ "dipterocarpus": {
+  "query": "Dipterocarpus",
+  "matched": "Dipterocarpus",
+  "credit": "(c) Maryse, some rights reserved (CC BY-NC), uploaded by Maryse"
+ },
+ "casuarina": {
+  "query": "Casuarina equisetifolia",
+  "matched": "Casuarina equisetifolia",
+  "credit": "(c) Pedro Alanis, some rights reserved (CC BY-NC), uploaded by Pedro Alanis"
+ },
+ "gnetum": {
+  "query": "Gnetum gnemon",
+  "matched": "Gnetum gnemon",
+  "credit": "(c) gbohne, some rights reserved (CC BY-SA)"
+ },
+ "elephantgrass": {
+  "query": "Cenchrus purpureus",
+  "matched": "Cenchrus purpureus",
+  "credit": "no rights reserved, uploaded by \u8449\u5b50"
+ },
+ "durian": {
+  "query": "Durio zibethinus",
+  "matched": "Durio",
+  "credit": "(c) Hafiz Issadeen, some rights reserved (CC BY)"
+ },
+ "miconia": {
+  "query": "Miconia crenata",
+  "matched": "Miconia crenata",
+  "credit": "(c) nanaz_, some rights reserved (CC BY-NC)"
+ },
+ "asiantoad": {
+  "query": "Duttaphrynus melanostictus",
+  "matched": "Duttaphrynus melanostictus",
+  "credit": "(c) Dr. Chinmay kishor Pathak, some rights reserved (CC BY-NC), uploaded by Dr. Chinmay kishor Pathak"
+ },
+ "fourridgedtoad": {
+  "query": "Ingerophrynus quadriporcatus",
+  "matched": "Ingerophrynus quadriporcatus",
+  "credit": "(c) Jono Dashper, all rights reserved"
+ },
+ "fourlined": {
+  "query": "Polypedates leucomystax",
+  "matched": "Polypedates leucomystax",
+  "credit": "(c) Andaman Kaosung, all rights reserved, uploaded by Andaman Kaosung"
+ },
+ "cinnamonfrog": {
+  "query": "Nyctixalus pictus",
+  "matched": "Nyctixalus pictus",
+  "credit": "(c) Roy Kittrell, all rights reserved, uploaded by Roy Kittrell"
+ },
+ "hornedfrog": {
+  "query": "Pelobatrachus nasutus",
+  "matched": "Pelobatrachus nasutus",
+  "credit": "(c) Roy Kittrell, all rights reserved, uploaded by Roy Kittrell"
+ },
+ "croc": {
+  "query": "Crocodylus porosus",
+  "matched": "Crocodylus porosus",
+  "credit": "(c) Lorraine Harris, all rights reserved, uploaded by Lorraine Harris"
+ },
+ "spinyturtle": {
+  "query": "Heosemys spinosa",
+  "matched": "Heosemys spinosa",
+  "credit": "(c) Chien Lee, all rights reserved, uploaded by Chien Lee"
+ },
+ "watermonitor": {
+  "query": "Varanus salvator",
+  "matched": "Varanus salvator",
+  "credit": "(c) Andrew Blayney, all rights reserved, uploaded by Andrew Blayney"
+ },
+ "draco": {
+  "query": "Draco sumatranus",
+  "matched": "Draco sumatranus",
+  "credit": "(c) Bronze Cheung Kwok Yee, some rights reserved (CC BY-NC), uploaded by Bronze Cheung Kwok Yee"
+ },
+ "wagler": {
+  "query": "Tropidolaemus wagleri",
+  "matched": "Tropidolaemus wagleri",
+  "credit": "(c) Cheongweei Gan, some rights reserved (CC BY-NC), uploaded by Cheongweei Gan"
+ },
+ "colugo": {
+  "query": "Galeopterus variegatus",
+  "matched": "Galeopterus variegatus",
+  "credit": "(c) Hong Wenyang, all rights reserved, uploaded by Hong Wenyang"
+ },
+ "pangolin": {
+  "query": "Manis javanica",
+  "matched": "Manis javanica",
+  "credit": "(c) Chien Lee, all rights reserved, uploaded by Chien Lee"
+ },
+ "leopardcat": {
+  "query": "Prionailurus bengalensis",
+  "matched": "Prionailurus bengalensis",
+  "credit": "(c) Jono Dashper, all rights reserved"
+ },
+ "loris": {
+  "query": "Nycticebus coucang",
+  "matched": "Nycticebus menagensis",
+  "credit": "(c) ANT.X.LAM, all rights reserved, uploaded by ANT.X.LAM"
+ },
+ "boar": {
+  "query": "Sus scrofa",
+  "matched": "Sus scrofa",
+  "credit": "(c) Nathalie Hausser, some rights reserved (CC BY-NC-ND)"
+ },
+ "redshank": {
+  "query": "Tringa totanus",
+  "matched": "Tringa totanus",
+  "credit": "(c) Frans Vandewalle, some rights reserved (CC BY-NC)"
+ },
+ "egret": {
+  "query": "Egretta garzetta",
+  "matched": "Egretta garzetta",
+  "credit": "(c) Bengt Nyman, some rights reserved (CC BY)"
+ },
+ "greenpigeon": {
+  "query": "Treron vernans",
+  "matched": "Treron vernans",
+  "credit": "(c) John Clough, some rights reserved (CC BY-NC), uploaded by John Clough"
+ },
+ "fishowl": {
+  "query": "Ketupa ketupu",
+  "matched": "Ketupa ketupu",
+  "credit": "(c) Lester Tan, all rights reserved, uploaded by Lester Tan"
+ },
+ "seaeagle": {
+  "query": "Haliaeetus leucogaster",
+  "matched": "Icthyophaga leucogaster",
+  "credit": "(c) Allan Lugg, some rights reserved (CC BY-NC), uploaded by Allan Lugg"
+ },
+ "hornbill": {
+  "query": "Anthracoceros albirostris",
+  "matched": "Anthracoceros albirostris",
+  "credit": "(c) jan knol, all rights reserved, uploaded by jan knol"
+ },
+ "kingfisher": {
+  "query": "Todiramphus chloris",
+  "matched": "Todiramphus chloris",
+  "credit": "(c) \u8521\u5fd7\u5049, some rights reserved (CC BY-NC), uploaded by \u8521\u5fd7\u5049"
+ },
+ "flameback": {
+  "query": "Dinopium javanense",
+  "matched": "Dinopium javanense",
+  "credit": "(c) Chan Chee Keong, all rights reserved, uploaded by Chan Chee Keong"
+ },
+ "parakeet": {
+  "query": "Psittacula longicauda",
+  "matched": "Psittacula longicauda",
+  "credit": "(c) Dixon Lau, some rights reserved (CC BY-NC), uploaded by Dixon Lau"
+ },
+ "javanmyna": {
+  "query": "Acridotheres javanicus",
+  "matched": "Acridotheres javanicus",
+  "credit": "(c) Yu Ching Tam, all rights reserved, uploaded by Yu Ching Tam"
+ },
+ "brahminykite": {
+  "query": "Haliastur indus",
+  "matched": "Haliastur indus",
+  "credit": "(c) Dougal Townsend, some rights reserved (CC BY-NC), uploaded by Dougal Townsend"
+ },
+ "plaintiger": {
+  "query": "Danaus chrysippus",
+  "matched": "Danaus chrysippus",
+  "credit": "(c) Pavel Vojtek, some rights reserved (CC BY-NC), uploaded by Pavel Vojtek"
+ },
+ "waspmoth": {
+  "query": "Amata huebneri",
+  "matched": "Amata huebneri",
+  "credit": "(c) budak, some rights reserved (CC BY-NC), uploaded by budak"
+ },
+ "tigerbeetle": {
+  "query": "Calomera angulata",
+  "matched": "Calomera angulata",
+  "credit": "(c) Masatoshi Sone, some rights reserved (CC BY-NC), uploaded by Masatoshi Sone"
+ },
+ "robberfly": {
+  "query": "Asilidae",
+  "matched": "Asilidae",
+  "credit": "(c) Steve Collins, all rights reserved"
+ },
+ "honeybee": {
+  "query": "Apis dorsata",
+  "matched": "Apis dorsata",
+  "credit": "(c) Karthik, some rights reserved (CC BY-NC), uploaded by Karthik"
+ },
+ "sphex": {
+  "query": "Sphex diabolicus",
+  "matched": "Sphex diabolicus",
+  "credit": "(c) menganation, some rights reserved (CC BY-NC)"
+ },
+ "giantant": {
+  "query": "Dinomyrmex gigas",
+  "matched": "Dinomyrmex gigas",
+  "credit": "(c) Melvyn Yeo, some rights reserved (CC BY-NC), uploaded by Melvyn Yeo"
+ },
+ "emperor": {
+  "query": "Anax guttatus",
+  "matched": "Anax guttatus",
+  "credit": "(c) Weiting Liu, some rights reserved (CC BY-NC-SA)"
+ },
+ "spreadwing": {
+  "query": "Lestes",
+  "matched": "Lestes",
+  "credit": "(c) Bala, all rights reserved, uploaded by Bala"
+ },
+ "cicada": {
+  "query": "Huechys sanguinea",
+  "matched": "Huechys sanguinea",
+  "credit": "(c) Winsten Slowswakey, all rights reserved, uploaded by Winsten Slowswakey"
+ },
+ "cricket": {
+  "query": "Cardiodactylus",
+  "matched": "Cardiodactylus",
+  "credit": "(c) Max Hsieh(\u96c1\u5b50), some rights reserved (CC BY-NC), uploaded by Max Hsieh(\u96c1\u5b50)"
+ },
+ "deadleafroach": {
+  "query": "Pseudophoraspis nebulosa",
+  "matched": "Pseudophoraspis nebulosa",
+  "credit": "(c) budak, some rights reserved (CC BY-NC), uploaded by budak"
+ },
+ "termite": {
+  "query": "Macrotermes carbonarius",
+  "matched": "Macrotermes carbonarius",
+  "credit": "(c) Dirk Mezger, some rights reserved (CC BY-NC), uploaded by Dirk Mezger"
+ },
+ "leafinsect": {
+  "query": "Cryptophyllium",
+  "matched": "Cryptophyllium",
+  "credit": "(c) Haocong_Cat, some rights reserved (CC BY), uploaded by Haocong_Cat"
+ },
+ "mantisfly": {
+  "query": "Euclimacia",
+  "matched": "Euclimacia",
+  "credit": "(c) ben_revell, all rights reserved"
+ },
+ "stickinsect": {
+  "query": "Phasmatodea",
+  "matched": "Phasmida",
+  "credit": "(c) Lida Garcia Trujillo, some rights reserved (CC BY-NC), uploaded by Lida Garcia Trujillo"
+ },
+ "thiania": {
+  "query": "Thiania bhamoensis",
+  "matched": "Thiania bhamoensis",
+  "credit": "(c) Nicky Bay, all rights reserved, uploaded by Nicky Bay"
+ },
+ "heteropoda": {
+  "query": "Heteropoda boiei",
+  "matched": "Heteropoda boiei",
+  "credit": "(c) Kenneth Chin, all rights reserved, uploaded by Kenneth Chin"
+ },
+ "thomisus": {
+  "query": "Thomisus nepenthiphilus",
+  "matched": "Thomisus nepenthiphilus",
+  "credit": "(c) Nicky Bay, all rights reserved, uploaded by Nicky Bay"
+ },
+ "macracantha": {
+  "query": "Macracantha arcuata",
+  "matched": "Macracantha arcuata",
+  "credit": "(c) Yuwaraj Gurjar, some rights reserved (CC BY-NC), uploaded by Yuwaraj Gurjar"
+ },
+ "nephila": {
+  "query": "Nephila pilipes",
+  "matched": "Nephila pilipes",
+  "credit": "(c) budak, some rights reserved (CC BY-NC), uploaded by budak"
+ },
+ "lychas": {
+  "query": "Lychas scutilus",
+  "matched": "Lychas scutilus",
+  "credit": "(c) Nicky Bay, all rights reserved, uploaded by Nicky Bay"
+ },
+ "beloniscus": {
+  "query": "Beloniscus albiephippiatus",
+  "matched": "Beloniscus albiephippiatus",
+  "credit": "(c) Nicky Bay, all rights reserved, uploaded by Nicky Bay"
+ },
+ "amblypygi": {
+  "query": "Amblypygi",
+  "matched": "Amblypygi",
+  "credit": "(c) Arnaud Aury, some rights reserved (CC BY-NC), uploaded by Arnaud Aury"
+ },
+ "vinegaroon": {
+  "query": "Thelyphonida",
+  "matched": "Uropygi",
+  "credit": "(c) Lee Hoy, some rights reserved (CC BY-NC-ND), uploaded by Lee Hoy"
+ },
+ "pseudoscorpion": {
+  "query": "Pseudoscorpiones",
+  "matched": "Pseudoscorpiones",
+  "credit": "(c) Gilles San Martin, some rights reserved (CC BY-SA), uploaded by Gilles San Martin"
+ },
+ "harvestman": {
+  "query": "Opiliones",
+  "matched": "Opiliones",
+  "credit": "(c) Edgardo Flores, all rights reserved, uploaded by Edgardo Flores"
+ },
+ "millipede": {
+  "query": "Harpagophoridae",
+  "matched": "Harpagophoridae",
+  "credit": "(c) Aleksandr Gromov, some rights reserved (CC BY), uploaded by Aleksandr Gromov"
+ },
+ "cormocephalus": {
+  "query": "Cormocephalus",
+  "matched": "Cormocephalus",
+  "credit": "(c) Cheryl Macaulay, some rights reserved (CC BY-NC), uploaded by Cheryl Macaulay"
+ },
+ "armadillo": {
+  "query": "Armadillo intermixtus",
+  "matched": "Armadillo intermixtus",
+  "credit": "(c) Nicky Bay, all rights reserved, uploaded by Nicky Bay"
+ },
+ "housecentipede": {
+  "query": "Thereuopoda longicornis",
+  "matched": "Thereuopoda longicornis",
+  "credit": "(c) venus5026, some rights reserved (CC BY-NC), uploaded by venus5026"
+ },
+ "leatherjacket": {
+  "query": "Anacanthus barbatus",
+  "matched": "Anacanthus barbatus",
+  "credit": "(c) J. Martin Crossley, some rights reserved (CC BY-NC-SA), uploaded by J. Martin Crossley"
+ },
+ "seahorse": {
+  "query": "Hippocampus kuda",
+  "matched": "Hippocampus kuda",
+  "credit": "(c) seahorses_of_the_world, all rights reserved, uploaded by seahorses_of_the_world"
+ },
+ "shrimpgoby": {
+  "query": "Cryptocentrus",
+  "matched": "Cryptocentrus",
+  "credit": "(c) Claudine Lamothe, some rights reserved (CC BY-NC)"
+ },
+ "copperband": {
+  "query": "Chelmon rostratus",
+  "matched": "Chelmon rostratus",
+  "credit": "(c) caron_wong, some rights reserved (CC BY-NC)"
+ },
+ "clownfish": {
+  "query": "Amphiprion ocellaris",
+  "matched": "Amphiprion percula",
+  "credit": "(c) yannickvm, some rights reserved (CC BY-NC)"
+ },
+ "mudskipper": {
+  "query": "Periophthalmus chrysospilos",
+  "matched": "Periophthalmus chrysospilos",
+  "credit": "(c) Andaman Kaosung, all rights reserved, uploaded by Andaman Kaosung"
+ },
+ "whaleshark": {
+  "query": "Rhincodon typus",
+  "matched": "Rhincodon typus",
+  "credit": "(c) Simon Pierce, some rights reserved (CC BY-NC), uploaded by Simon Pierce"
+ },
+ "bluespotray": {
+  "query": "Taeniura lymma",
+  "matched": "Taeniura lymma",
+  "credit": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B."
+ },
+ "dolphin": {
+  "query": "Sousa chinensis",
+  "matched": "Sousa plumbea",
+  "credit": "(c) Daniel Silva Leite, some rights reserved (CC BY-NC), uploaded by Daniel Silva Leite"
+ },
+ "dugong": {
+  "query": "Dugong dugon",
+  "matched": "Dugong dugon",
+  "credit": "(c) Luis P. B., some rights reserved (CC BY-NC), uploaded by Luis P. B."
+ },
+ "horseshoecrab": {
+  "query": "Carcinoscorpius rotundicauda",
+  "matched": "Carcinoscorpius rotundicauda",
+  "credit": "(c) Kevin Laurie, some rights reserved (CC BY-NC), uploaded by Kevin Laurie"
+ },
+ "bruguiera": {
+  "query": "Bruguiera gymnorhiza",
+  "matched": "Bruguiera gymnorhiza",
+  "credit": "no rights reserved, uploaded by \u8449\u5b50"
+ },
+ "avicennia": {
+  "query": "Avicennia",
+  "matched": "Avicennia",
+  "credit": "(c) Onkar Kadam, some rights reserved (CC BY-NC), uploaded by Onkar Kadam"
+ },
+ "sgcrab": {
+  "query": "Johora singaporensis",
+  "matched": "Johora singaporensis",
+  "credit": "(c) zicky, some rights reserved (CC BY-NC), uploaded by zicky"
+ },
+ "muffprawn": {
+  "query": "Macrobrachium",
+  "matched": "Macrobrachium",
+  "credit": "(c) Carbomay, all rights reserved, uploaded by Carbomay"
+ },
+ "pygmyrasbora": {
+  "query": "Boraras maculatus",
+  "matched": "Boraras maculatus",
+  "credit": "(c) vii_genau, some rights reserved (CC BY-NC-SA)"
+ },
+ "betta": {
+  "query": "Betta pugnax",
+  "matched": "Betta pugnax",
+  "credit": "(c) Tse Chung Yi\uff0c\u4fdd\u7559\u90e8\u5206\u6743\u5229\uff08CC BY-NC\uff09, \u7531 Tse Chung Yi \u4e0a\u4f20"
+ },
+ "swampcrab": {
+  "query": "Parathelphusa",
+  "matched": "Parathelphusa",
+  "credit": "(c) budak, some rights reserved (CC BY-NC), uploaded by budak"
+ },
+ "africancatfish": {
+  "query": "Clarias gariepinus",
+  "matched": "Clarias gariepinus",
+  "credit": "(c) Alexander Tiepsman, all rights reserved, uploaded by Alexander Tiepsman"
+ },
+ "redclaw": {
+  "query": "Cherax quadricarinatus",
+  "matched": "Cherax quadricarinatus",
+  "credit": "(c) Christine Loew, some rights reserved (CC BY), uploaded by Christine Loew"
+ },
+ "guppy": {
+  "query": "Poecilia reticulata",
+  "matched": "Poecilia reticulata",
+  "credit": "(c) kary, some rights reserved (CC BY-NC), uploaded by kary"
+ },
+ "pleco": {
+  "query": "Pterygoplichthys disjunctivus",
+  "matched": "Pterygoplichthys disjunctivus",
+  "credit": "(c) Ruben D. Layme, some rights reserved (CC BY-NC), uploaded by Ruben D. Layme"
+ },
+ "tilapia": {
+  "query": "Oreochromis niloticus",
+  "matched": "Oreochromis niloticus",
+  "credit": "(c) species_spotlight, all rights reserved, uploaded by species_spotlight"
+ },
+ "trumpetsnail": {
+  "query": "Melanoides tuberculata",
+  "matched": "Melanoides tuberculata",
+  "credit": "(c) David Elliott, some rights reserved (CC BY)"
+ },
+ "goniopora": {
+  "query": "Goniopora",
+  "matched": "Goniopora",
+  "credit": "(c) Mark Rosenstein, some rights reserved (CC BY-NC), uploaded by Mark Rosenstein"
+ },
+ "tubastraea": {
+  "query": "Tubastraea",
+  "matched": "Tubastraea",
+  "credit": "(c) drmattnimbs, some rights reserved (CC BY-NC), uploaded by drmattnimbs"
+ },
+ "carpetanemone": {
+  "query": "Stichodactyla gigantea",
+  "matched": "Stichodactyla gigantea",
+  "credit": "(c) Allen Lyu, some rights reserved (CC BY-NC), uploaded by Allen Lyu"
+ },
+ "barrelsponge": {
+  "query": "Xestospongia testudinaria",
+  "matched": "Xestospongia testudinaria",
+  "credit": "(c) Albert Kok, some rights reserved (CC BY-SA)"
+ },
+ "neptunecup": {
+  "query": "Cliona patera",
+  "matched": "Cliona patera",
+  "credit": "Xpistian, no known copyright restrictions (public domain)"
+ },
+ "enhalus": {
+  "query": "Enhalus acoroides",
+  "matched": "Enhalus acoroides",
+  "credit": "(c) Christian Gloor, some rights reserved (CC BY)"
+ },
+ "halophila": {
+  "query": "Halophila ovalis",
+  "matched": "Halophila ovalis",
+  "credit": "(c) \u8607\u6631, some rights reserved (CC BY-NC), uploaded by \u8607\u6631"
+ },
+ "thalassia": {
+  "query": "Thalassia hemprichii",
+  "matched": "Thalassia hemprichii",
+  "credit": "(c) Yingyod Lapwong, some rights reserved (CC BY-NC), uploaded by Yingyod Lapwong"
+ },
+ "cushionstar": {
+  "query": "Culcita novaeguineae",
+  "matched": "Culcita novaeguineae",
+  "credit": "(c) Joi Ito, some rights reserved (CC BY)"
+ },
+ "giantclam": {
+  "query": "Tridacna",
+  "matched": "Tridacna",
+  "credit": "(c) uwkwaj, some rights reserved (CC BY-NC), uploaded by uwkwaj"
+ },
+ "acropora": {
+  "query": "Acropora",
+  "matched": "Acropora",
+  "credit": "(c) albert kok, some rights reserved (CC BY-NC-SA)"
+ },
+ "nudibranch": {
+  "query": "Phyllidiella",
+  "matched": "Phyllidiella",
+  "credit": "(c) Steve Childs, some rights reserved (CC BY)"
+ },
+ "h-mangrove": {
+  "query": "Mangrove",
+  "matched": "Mangrove",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-coralreef": {
+  "query": "Coral_reef",
+  "matched": "Coral reef",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-seagrass": {
+  "query": "Seagrass",
+  "matched": "Seagrass",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-mudflat": {
+  "query": "Mudflat",
+  "matched": "Mudflat",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-rockyshore": {
+  "query": "Rocky_shore",
+  "matched": "Rocky shore",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-btnr": {
+  "query": "Bukit_Timah_Nature_Reserve",
+  "matched": "Bukit Timah Nature Reserve",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-macritchie": {
+  "query": "MacRitchie_Reservoir",
+  "matched": "MacRitchie Reservoir",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-swamp": {
+  "query": "Freshwater_swamp_forest",
+  "matched": "Freshwater swamp forest",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-dipterocarp": {
+  "query": "Dipterocarpaceae",
+  "matched": "Dipterocarpaceae",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-chekjawa": {
+  "query": "Chek_Jawa",
+  "matched": "Chek Jawa",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-karst": {
+  "query": "Karst",
+  "matched": "Karst",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-ubin": {
+  "query": "Pulau_Ubin",
+  "matched": "Pulau Ubin",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "bulbul": {
+  "query": "Pycnonotus analis",
+  "matched": "Pycnonotus goiavier analis",
+  "credit": "(c) David Renoult, some rights reserved (CC BY-NC), uploaded by David Renoult"
+ },
+ "mantis": {
+  "query": "Hierodula",
+  "matched": "Hierodula",
+  "credit": "(c) budak, some rights reserved (CC BY-NC), uploaded by budak"
+ },
+ "h-sbwr": {
+  "query": "Sungei_Buloh_Wetland_Reserve",
+  "matched": "Sungei Buloh Wetland Reserve",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-peat": {
+  "query": "Peat_swamp_forest",
+  "matched": "Peat swamp forest",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-marina": {
+  "query": "Marina_Barrage",
+  "matched": "Marina Barrage",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-kentridge": {
+  "query": "Kent_Ridge_Park",
+  "matched": "Kent Ridge Park",
+  "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "h-seawall": {
+  "query": "Seawall",
+  "matched": "Seawall",
+  "credit": "Wikipedia/Wikimedia Commons"
+ }
+}

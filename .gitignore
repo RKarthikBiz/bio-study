@@ -1,0 +1,4 @@
+materials/
+.claude/
+__pycache__/
+*.part
