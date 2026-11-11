@@ -34,9 +34,11 @@ MODULES.push({
       <tr><td>Pink-speckled Shrimpgoby <i>Cryptocentrus melanopus</i></td><td>Gobiidae</td><td>LC</td><td>LC</td></tr>
       <tr><td>Copperband Butterflyfish <i>Chelmon rostratus</i></td><td>Chaetodontidae</td><td>LC</td><td>LC</td></tr>
       <tr><td>Common Clownfish <i>Amphiprion ocellaris</i></td><td>Pomacentridae</td><td>NT</td><td>LC</td></tr>
-      <tr><td>Gold-spotted Mudskipper <i>Periophthalmus chrysospilos</i></td><td>Gobionellidae</td><td>VU</td><td>LC</td></tr>
+      <tr><td>Gold-spotted Mudskipper <i>Periophthalmus chrysospilos</i></td><td>Gobionellidae</td><td>LC*</td><td>LC</td></tr>
       <tr><td>Whale Shark <i>Rhincodon typus</i></td><td>Rhincodontidae</td><td><b>CR</b></td><td>EN</td></tr>
       <tr><td>Blue-spotted Fantail Ray <i>Taeniura lymma</i></td><td>Dasyatidae</td><td>VU</td><td>LC</td></tr></table></div>
+      <p>*The lecture slide said VU, but the updated species summary lists the mudskipper as <b>LC</b> — go with LC.</p>
+      <p>Groups: the 6 bony fishes are <b>Actinopterygii</b> (ray-finned fishes); whale shark & ray are <b>Elasmobranchii</b> (cartilaginous fishes); dolphin & dugong are <b>Mammalia</b>.</p>
       <p>The Copperband Butterflyfish appeared on Singapore's <b>1962 nature stamp</b>; long snout to nibble coral. Clownfish live in anemones (mutualism). Mudskippers live on <b>mudflats</b>.</p>`,
       hook: `<b>Sea</b>horse & <b>whale</b> shark: both <b>CR</b> in Singapore — the “<b>Seriously Rare</b>” duo. 🐴🦈<br>Notice: Singapore status is often <b>worse</b> than global status — local populations are tiny.` },
     { id: "mv-mammals", title: "Marine mammals",
@@ -59,7 +61,7 @@ MODULES.push({
     { id: "shrimpgoby", common: "Pink-speckled Shrimpgoby", sci: "Cryptocentrus melanopus", family: "Gobiidae", group: "Marine fish", status: "LC", where: "Sandy/muddy seabed burrows (shared with shrimps)", fact: "Goby described by Bleeker (1860), illustrated by Castelnau", hook: "Goby that shares a burrow with a shrimp." },
     { id: "copperband", common: "Copperband Butterflyfish", sci: "Chelmon rostratus", family: "Chaetodontidae", group: "Marine fish", status: "LC", where: "Coral reefs", fact: "Long-snouted reef fish featured on the 1962 Singapore nature stamp", hook: "Tweezers-nose on a stamp." },
     { id: "clownfish", common: "Common Clownfish", sci: "Amphiprion ocellaris", family: "Pomacentridae", group: "Marine fish", status: "NT", where: "Coral reefs, inside sea anemones", fact: "Lives mutualistically in sea anemones like the giant carpet anemone", hook: "Nemo in its anemone home." },
-    { id: "mudskipper", common: "Gold-spotted Mudskipper", sci: "Periophthalmus chrysospilos", family: "Gobionellidae", group: "Marine fish", status: "VU", where: "Mudflats and mangroves", fact: "Amphibious fish common on mudflats", hook: "Fish that walks on mud." },
+    { id: "mudskipper", common: "Gold-spotted Mudskipper", sci: "Periophthalmus chrysospilos", family: "Gobionellidae", group: "Marine fish", status: "LC", where: "Mudflats and mangroves", fact: "Amphibious fish common on mudflats", hook: "Fish that walks on mud." },
     { id: "whaleshark", common: "Whale Shark", sci: "Rhincodon typus", family: "Rhincodontidae", group: "Marine fish", status: "CR", where: "Open waters (occasional visitor)", fact: "World's largest fish; CR in Singapore, EN globally", hook: "Biggest fish, seriously rare here." },
     { id: "bluespotray", common: "Blue-spotted Fantail Ray", sci: "Taeniura lymma", family: "Dasyatidae", group: "Marine fish", status: "VU", where: "Coral reefs and sandy patches", fact: "Stingray with bright blue spots (Elasmobranchii)", hook: "Blue polka-dot stingray." },
     { id: "dolphin", common: "Indo-Pacific Humpback Dolphin", sci: "Sousa chinensis", family: "Delphinidae", group: "Marine mammal", status: "CR", where: "Coastal waters / Singapore Straits", fact: "Pinkish coastal dolphin, CR in Singapore", hook: "Pink dolphin with a hump." },
@@ -83,6 +85,6 @@ MODULES.push({
     <li>Habitats: mangroves, estuaries, seagrass, mudflats, reefs. Streamlining & countershading.</li>
     <li>Fishes: ~30k spp, not monophyletic; 58% marine, 42% freshwater; 900+ in SG. fish vs fishes.</li>
     <li>History: Bearded Leatherjacket first described (Gray 1830); Bleeker (grandfather, 1,925 spp); Castelnau (469).</li>
-    <li>SG status: Leatherjacket EN · Seahorse CR · Shrimpgoby LC · Copperband LC · Clownfish NT · Mudskipper VU · Whale Shark CR · Blue-spotted ray VU · Humpback dolphin CR · Dugong CR.</li>
+    <li>SG status: Leatherjacket EN · Seahorse CR · Shrimpgoby LC · Copperband LC · Clownfish NT · Mudskipper LC · Whale Shark CR · Blue-spotted ray VU · Humpback dolphin CR · Dugong CR.</li>
     <li>Conservation: protected areas, artificial reefs, citizen science, collaboration.</li></ul>`,
 });

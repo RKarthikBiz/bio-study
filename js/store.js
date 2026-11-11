@@ -12,7 +12,7 @@
     xp: 0,
     days: {},             // "YYYY-MM-DD" -> {xp, answered}
     exams: [],            // {t, score, total, secs, byModule}
-    settings: { goal: 60, theme: "auto", sound: true, examLen: 20, examMins: 20 },
+    settings: { goal: 60, theme: "auto", sound: true, examLen: 60, examMins: 60 },
     badges: {},
     seenSpecies: {},
   });

@@ -13,11 +13,11 @@ Your progress is saved in this browser's localStorage. To move it to another dev
 
 ## What's inside
 
-- **Learn**: 13 modules and 127 bite-size lessons, each with a memory trick and an "exam angle" note. After every 3 lessons there's a short recall check, and anything you miss is asked again before you move on.
+- **Learn**: 15 modules and 147 bite-size lessons, each with a memory trick and an "exam angle" note. After every 3 lessons there's a short recall check, and anything you miss is asked again before you move on.
 - **Review**: spaced repetition with Leitner boxes. Items come back after 1, 3, 7, 14 and 30 days.
 - **Practice**: quizzes you can filter by module and question type (concepts, photo ID, species facts, or the original mock).
-- **Mock exams**: the **Real Mock Test** (your original mock quiz), six fixed **Practice Mocks** (20 questions in 20 minutes each, no repeats between them), and a custom random mix. Feedback only appears after submitting; results are broken down by topic, and best scores and history are tracked per paper.
-- **Photo ID**: rapid-fire species identification using photos of 99 must-know species.
+- **Mock exams**: the **Real Mock Test** (your original mock quiz), six fixed **Practice Mocks** (60 questions in 60 minutes each, matching the real exam, with no repeats between them), and a custom random mix. Feedback only appears after submitting; results are broken down by topic, and best scores and history are tracked per paper.
+- **Photo ID**: rapid-fire species identification using photos of 124 must-know species.
 - **Field guide**, **Memory tricks**, printable **Cheat sheets**, **Weak spots** and **Search**.
 - XP, levels, a daily goal, a streak, a sticker for each module you master, and a dark mode.
 

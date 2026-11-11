@@ -653,5 +653,140 @@
   "query": "Seawall",
   "matched": "Seawall",
   "credit": "Wikipedia/Wikimedia Commons"
+ },
+ "purpleflatworm": {
+  "query": "Pseudoceros laingensis",
+  "matched": "Pseudoceros laingensis",
+  "credit": "(c) Doreen, some rights reserved (CC BY), uploaded by Doreen"
+ },
+ "bayerflatworm": {
+  "query": "Nymphozoon bayeri",
+  "matched": "Nymphozoon bayeri",
+  "credit": "(c) Tsu Soo Tan, some rights reserved (CC BY-NC), uploaded by Tsu Soo Tan"
+ },
+ "sarongworm": {
+  "query": "Diopatra",
+  "matched": "Diopatra",
+  "credit": "(c) smithsonian_marinegeo, some rights reserved (CC BY-NC-SA), uploaded by smithsonian_marinegeo"
+ },
+ "featherduster": {
+  "query": "Sabellastarte spectabilis",
+  "matched": "Sabellastarte spectabilis",
+  "credit": "(c) Sylvain Le Bris, some rights reserved (CC BY-NC), uploaded by Sylvain Le Bris"
+ },
+ "fireworm": {
+  "query": "Chloeia flava",
+  "matched": "Chloeia flava",
+  "credit": "(c) Pete Woodall, some rights reserved (CC BY-NC), uploaded by Pete Woodall"
+ },
+ "knobblystar": {
+  "query": "Protoreaster nodosus",
+  "matched": "Protoreaster nodosus",
+  "credit": "(c) tengumaster89, all rights reserved"
+ },
+ "littlebrittlestar": {
+  "query": "Ophiactis savignyi",
+  "matched": "Ophiactis savignyi",
+  "credit": "(c) Steve Smith, some rights reserved (CC BY-NC-ND), uploaded by Steve Smith"
+ },
+ "redfeatherstar": {
+  "query": "Himerometra robustipinna",
+  "matched": "Himerometra robustipinna",
+  "credit": "(c) krkzv, some rights reserved (CC BY-NC), uploaded by krkzv"
+ },
+ "pinkwarty": {
+  "query": "Cercodemas anceps",
+  "matched": "Cercodemas anceps",
+  "credit": "(c) budak, some rights reserved (CC BY-NC), uploaded by budak"
+ },
+ "diadema": {
+  "query": "Diadema setosum",
+  "matched": "Diadema setosum",
+  "credit": "(c) Patrick Randall, some rights reserved (CC BY-NC-SA)"
+ },
+ "barnacle": {
+  "query": "Amphibalanus amphitrite",
+  "matched": "Amphibalanus amphitrite",
+  "credit": "(c) johnchau, some rights reserved (CC BY-NC), uploaded by johnchau"
+ },
+ "orangehermit": {
+  "query": "Clibanarius infraspinatus",
+  "matched": "Clibanarius infraspinatus",
+  "credit": "(c) budak, some rights reserved (CC BY-NC), uploaded by budak"
+ },
+ "mudcrab": {
+  "query": "Scylla",
+  "matched": "Scylla",
+  "credit": "(c) gemw, some rights reserved (CC BY-NC)"
+ },
+ "flowercrab": {
+  "query": "Portunus pelagicus",
+  "matched": "Portunus pelagicus",
+  "credit": "(c) budak, some rights reserved (CC BY-NC), uploaded by budak"
+ },
+ "guardcrab": {
+  "query": "Trapezia cymodoce",
+  "matched": "Trapezia cymodoce",
+  "credit": "(c) John Sear, some rights reserved (CC BY-NC), uploaded by John Sear"
+ },
+ "coastalhorseshoe": {
+  "query": "Tachypleus gigas",
+  "matched": "Tachypleus gigas",
+  "credit": "(c) Minder Singh, some rights reserved (CC BY-NC), uploaded by Minder Singh"
+ },
+ "snappingshrimp": {
+  "query": "Alpheidae",
+  "matched": "Alpheidae",
+  "credit": "(c) justinscioli, all rights reserved, uploaded by justinscioli"
+ },
+ "mantisshrimp": {
+  "query": "Stomatopoda",
+  "matched": "Stomatopoda",
+  "credit": "(c) jim-anderson, all rights reserved, uploaded by jim-anderson"
+ },
+ "bazillion": {
+  "query": "Batillaria zonalis",
+  "matched": "Batillaria zonalis",
+  "credit": "(c) gohulee, some rights reserved (CC BY-NC), uploaded by gohulee"
+ },
+ "ovumcowrie": {
+  "query": "Erronea ovum",
+  "matched": "Erronea ovum",
+  "credit": "(c) uwkwaj, some rights reserved (CC BY-NC), uploaded by uwkwaj"
+ },
+ "cockle": {
+  "query": "Cardiidae",
+  "matched": "Cardiidae",
+  "credit": "(c) uwkwaj, some rights reserved (CC BY-NC), uploaded by uwkwaj"
+ },
+ "fanshell": {
+  "query": "Pinnidae",
+  "matched": "Pinnidae",
+  "credit": "(c) Saryu Mae \u524d \u671d\u7409, some rights reserved (CC BY), uploaded by Saryu Mae \u524d \u671d\u7409"
+ },
+ "octopus": {
+  "query": "Octopodidae",
+  "matched": "Octopodidae",
+  "credit": "(c) Kimberly Tripp Randal, some rights reserved (CC BY-NC), uploaded by Kimberly Tripp Randal"
+ },
+ "fluted": {
+  "query": "Tridacna squamosa",
+  "matched": "Tridacna squamosa",
+  "credit": "(c) Bjorn V. Peterson, some rights reserved (CC BY-NC), uploaded by Bjorn V. Peterson"
+ },
+ "gals": {
+  "query": "Lissachatina fulica",
+  "matched": "Lissachatina fulica",
+  "credit": "(c) PK Yeung, some rights reserved (CC BY-NC), uploaded by PK Yeung"
+ },
+ "treesnail": {
+  "query": "Amphidromus atricallosus",
+  "matched": "Amphidromus atricallosus",
+  "credit": "(c) Fiora Li, some rights reserved (CC BY-NC), uploaded by Fiora Li"
+ },
+ "leatherleaf": {
+  "query": "Laevicaulis alte",
+  "matched": "Laevicaulis alte",
+  "credit": "(c) Masatoshi Sone, some rights reserved (CC BY-NC), uploaded by Masatoshi Sone"
  }
 }

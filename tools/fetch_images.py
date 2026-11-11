@@ -63,6 +63,17 @@ SPECIES = {
     "goniopora": "Goniopora", "tubastraea": "Tubastraea", "carpetanemone": "Stichodactyla gigantea",
     "barrelsponge": "Xestospongia testudinaria", "neptunecup": "Cliona patera", "enhalus": "Enhalus acoroides",
     "halophila": "Halophila ovalis", "thalassia": "Thalassia hemprichii", "cushionstar": "Culcita novaeguineae",
+    # lecture 11: marine invertebrates
+    "purpleflatworm": "Pseudoceros laingensis", "bayerflatworm": "Nymphozoon bayeri", "sarongworm": "Diopatra",
+    "featherduster": "Sabellastarte spectabilis", "fireworm": "Chloeia flava", "knobblystar": "Protoreaster nodosus",
+    "littlebrittlestar": "Ophiactis savignyi", "redfeatherstar": "Himerometra robustipinna", "pinkwarty": "Cercodemas anceps",
+    "diadema": "Diadema setosum", "barnacle": "Amphibalanus amphitrite", "orangehermit": "Clibanarius infraspinatus",
+    "mudcrab": "Scylla", "flowercrab": "Portunus pelagicus", "guardcrab": "Trapezia cymodoce",
+    "coastalhorseshoe": "Tachypleus gigas", "snappingshrimp": "Alpheidae", "mantisshrimp": "Stomatopoda",
+    # lecture 12: molluscs
+    "bazillion": "Batillaria zonalis", "ovumcowrie": "Erronea ovum", "cockle": "Cardiidae", "fanshell": "Pinnidae",
+    "octopus": "Octopodidae", "fluted": "Tridacna squamosa", "gals": "Lissachatina fulica", "treesnail": "Amphidromus atricallosus",
+    "leatherleaf": "Laevicaulis alte",
     "giantclam": "Tridacna", "acropora": "Acropora", "nudibranch": "Phyllidiella",
 }
 

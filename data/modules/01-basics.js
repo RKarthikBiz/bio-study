@@ -4,13 +4,27 @@ MODULES.push({
   blurb: "Naming life, what a species is, what biodiversity means, and the tools used to protect it.",
   source: "Lecture 1 — Biodiversity of Singapore",
   lessons: [
-    { id: "b-course", title: "What the quiz wants from you",
-      body: `<p>ES5008's final exam is a <span class="key">closed-book MCQ</span> (12 Nov). The mock had <b>20 questions in 20 minutes</b> — about one minute each — and several were “select all that apply”.</p>
-      <p>The course goals you'll be tested on:</p>
-      <ul><li><b>Identify</b> ~100+ must-know plant & animal species (often from a photo)</li><li>Know their <b>biology & natural history</b></li><li><b>Describe habitats</b> and which species live in each — and <i>why</i></li><li>Discuss biodiversity & conservation issues</li></ul>
-      <p>Slides labelled <b>“CONTENT NOT TESTED”</b> or <b>“ES7033 CONTENT ONLY”</b> are not examined for ES5008 — this app skips them or marks them.</p>`,
-      hook: `The exam's favourite question shape is <b>species ↔ habitat</b>. Whenever you learn a species, ask: “Where does it live, and why there?”`,
-      why: "Questions like “Which species are unlikely in the native forests of CCNR?” test species + habitat together." },
+    { id: "b-course", title: "What the exam wants from you",
+      body: `<p>The final exam is <span class="key">60 MCQs in 60 minutes</span> — about <b>one minute per question</b> — on <b>12 Nov (Thu), 9.45–10.45am in LT7</b>. Check in from 9.15am. It runs on <b>NTULearn in Respondus LockDown Browser</b>: install and update it beforehand, keep your phone in your bag, and go to the washroom first. Some questions are “select all that apply”.</p>
+      <p>Questions are based on:</p>
+      <ul><li>Biodiversity, its study, and its importance</li><li><b>Natural habitat types</b> in Singapore</li>
+      <li>Plants and animals found in Singapore and their <b>habitat associations</b></li>
+      <li>Scientific classification and major divisions within taxa</li>
+      <li>The <b>100+6 must-know species</b> from 16 plant and animal taxa</li>
+      <li>How to observe each taxon in the wild</li><li><b>Biodiversity threats and conservation</b></li></ul>
+      <p>Slides labelled <b>“CONTENT NOT TESTED”</b> or <b>“ES7033 CONTENT ONLY”</b> are not examined — this app skips them or marks them as bonus.</p>`,
+      hook: `<b>60 in 60.</b> ⏱️ If a question stumps you, pick your best guess, flag it in your head and move on — every question is worth the same.`,
+      why: "The mock exams in this app use the same 60-questions-in-60-minutes pace." },
+    { id: "b-themes", title: "The course's two big themes",
+      body: `<p>The final recap named <b>two emergent themes</b> that run through every lecture:</p>
+      <ol><li><b>Species abundance distributions are always right-skewed</b>: a <b>few common, abundant species and MANY rare species</b>. Don't let the few common species distort your view of a group — learn what the <i>majority</i> of species are doing.</li>
+      <li><b>Most species are strongly associated with one or a few habitat types</b>: an organism's structure and behaviour reveal its survival strategy in a particular environment.</li></ol>
+      <p>Habitat types covered in the course:</p>
+      <ul><li><b>Terrestrial</b>: closed-canopy forests (primary: dipterocarp, freshwater swamp; secondary: NSDF, ESDF, abandoned plantations) and open-canopy vegetation (elephant grass & resam scrublands, urban turfs, other scrub)</li>
+      <li><b>Inland freshwater</b>: natural (swamp forests, hill/forest streams) and managed (reservoirs, urban canals & rivers)</li>
+      <li><b>Intertidal</b>: mangroves, mudflats, rocky shores, sandy shores, sea walls</li>
+      <li><b>Inter-/subtidal</b>: coral reefs, seagrass meadows, open waters</li></ul>`,
+      hook: `<b>“Few common, many rare”</b> 📉 and <b>“every species has a home address”</b> 🏠.` },
     { id: "b-ranks", title: "Taxonomy: the filing system for life",
       body: `<p><b>Taxonomy</b> = the science of naming and classifying organisms. Any group at any rank is a <b>taxon</b> (plural <b>taxa</b>).</p>
       <p>The ranks, biggest to smallest: <b>Domain → Kingdom → Phylum → Class → Order → Family → Genus → Species</b>.</p>
@@ -128,6 +142,9 @@ MODULES.push({
     { id: "b29", lesson: "b-dont", q: "Which are nature reserve “don'ts”? <i>(select all that apply)</i>", options: ["Taking fallen seeds home", "Leaving biodegradable trash", "Leaving the trail", "Taking photos"], answer: [0, 1, 2], explain: "Take nothing (even seeds), leave nothing, stay on trails. Photos are fine!" },
     { id: "b30", lesson: "b-dont", q: "Which of these is NOT one of Singapore's four nature reserves?", options: ["Central Catchment", "Bukit Timah", "Sungei Buloh Wetland", "Western Catchment"], answer: [3], explain: "Western Catchment is called a “nature reserve” informally but isn't one. The 4th is Labrador NR." },
     { id: "b31", lesson: "b-dont", q: "Not removing rocks and wood, or turning them back, matters because…", options: ["They are heavy", "They are microhabitats for many animals", "They are illegal to touch", "They contain fossils"], answer: [1], explain: "Overturned rocks/logs destroy shelter for invertebrates, herps etc." },
+    { id: "b33", lesson: "b-themes", q: "Species abundance distributions are always…", options: ["Normally distributed", "Right-skewed: a few common species and many rare species", "Uniform: all species equally common", "Left-skewed: many common species, few rare"], answer: [1], explain: "One of the two emergent themes of the course." },
+    { id: "b34", lesson: "b-themes", q: "Which is one of the two emergent themes of the course?", options: ["Most species are strongly associated with one or a few habitat types", "Most species are found in every habitat", "Common species tell you everything about a group", "Habitat doesn't affect species traits"], answer: [0], explain: "Structure and behaviour reveal survival strategies in a particular environment." },
+    { id: "b35", lesson: "b-course", q: "How is the ES5008 final exam formatted?", options: ["20 MCQs in 20 minutes", "60 MCQs in 60 minutes", "Essay questions", "Open-book practical"], answer: [1], explain: "On NTULearn with Respondus LockDown Browser." },
     { id: "b32", lesson: "b-species", type: "tf", q: "True or false: “spp.” refers to a single species.", options: ["True", "False"], answer: [1], keepOrder: true, explain: "sp. = one species; spp. = several." },
   ],
   cards: [
@@ -142,6 +159,7 @@ MODULES.push({
     { id: "bc9", front: `<div class="big">Writing a binomial</div>`, back: `<i>Genus species</i> — both italic; Genus capitalised, epithet never.` },
   ],
   cheatsheet: `<ul>
+    <li><b>Exam:</b> 60 MCQs / 60 min, 12 Nov 9.45am, LT7, LockDown Browser. Themes: right-skewed abundance (few common, many rare); species tied to habitats.</li>
     <li><b>Ranks:</b> D-K-P-C-O-F-G-S. Species = only rank with biological basis. Mammals/insects = classes; Decapoda = order; mosses = phylum.</li>
     <li><b>Species</b> = fertile offspring + reproductively isolated. Hybrid = offspring of 2 species.</li>
     <li><b>Binomial:</b> <i>Genus</i> capitalised italic, <i>epithet</i> lowercase italic; authority not italic. ICN plants/fungi/algae, ICZN animals.</li>

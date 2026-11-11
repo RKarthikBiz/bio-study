@@ -151,7 +151,7 @@ main { padding: 28px clamp(16px, 4vw, 48px) 110px; max-width: 1080px; width: 100
 .st { display: inline-block; min-width: 38px; text-align: center; font: 800 .78rem var(--font-body); padding: 2px 8px; border-radius: 8px; color: #fff; }
 .st-CR { background: #d64545; } .st-EN { background: #e67e32; } .st-VU { background: #d9a520; color: #2b2000; }
 .st-NT { background: #7cae4a; } .st-LC { background: #3f9a5f; } .st-DD { background: #8a8f99; } .st-NEx { background: #333; }
-.st-NA { background: #6d7f99; }
+.st-NA { background: #6d7f99; } .st-NE { background: #a3a8b0; color: #222; }
 
 /* progress */
 .bar { height: 12px; background: var(--paper-2); border-radius: 99px; overflow: hidden; }

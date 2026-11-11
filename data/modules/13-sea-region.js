@@ -31,6 +31,15 @@ MODULES.push({
       <p>Trade-off: making pitchers costs energy, so carnivory pays off only where <b>soil nutrients are poor but light is plentiful</b> — e.g., open, nutrient-poor resam scrubland and heath forests.</p>
       <p>Big idea: <b>biodiversity is not evenly spread</b>; its patterns are <b>constrained by natural history</b>.</p>`,
       hook: `<b>Carnivory = expensive takeaway</b> 🥡 — only worth it when the fridge (soil) is empty and the sun is out.` },
+    { id: "g-drivers", title: "Drivers of biodiversity loss",
+      body: `<p>(ES7033 PG4 tutorial — background for the exam's “threats and conservation” topic.)</p>
+      <p>Globally, the biggest drivers of biodiversity loss are:</p>
+      <ul><li><b>Land-use change</b> on land — destroys habitats</li><li><b>Direct exploitation</b> (e.g., fishing) in the sea — kills individuals</li>
+      <li><b>Climate change</b> — physiological and pathogen/parasite stress</li><li><b>Invasive species</b> — alter communities</li>
+      <li><b>Pollution</b> — kills individuals and alters ecosystems</li></ul>
+      <p><b>Nutrient addition reduces biodiversity</b>: fertilisation speeds plant growth but lets a few fast-growing species dominate. Nutrient pollution is a leading cause of species loss in human-modified landscapes, and most damaging in <b>low-nutrient habitats</b> (think resam scrubland).</p>
+      <p>In Southeast Asia: invasive species do less harm in intact, biodiverse habitats (<b>biotic resistance</b>); in lower-GDP countries direct exploitation and land conversion for agriculture are more severe. Conservation is inseparable from economics.</p>`,
+      hook: `Land = <b>bulldozers</b> 🚜, Sea = <b>nets</b> 🎣. Extra fertiliser = <b>a few bullies take over</b>.` },
     { id: "g-guide", title: "Being a good nature guide",
       body: `<p>Tips from the video assignment (useful for discussion-style questions):</p>
       <ul><li><b>Show, don't tell</b>: observe behaviour yourself (feeding, movement) rather than reciting internet facts</li>
@@ -47,6 +56,8 @@ MODULES.push({
     { id: "g4", lesson: "g-habitats", q: "On tropical mountains, as elevation increases…", options: ["Diversity increases and endemism decreases", "Diversity decreases but endemism increases", "Both increase", "Both decrease"], answer: [1], explain: "" },
     { id: "g5", lesson: "g-gliders", q: "SE Asia's high number of gliding vertebrates is most likely linked to…", options: ["Cold winters", "Tall dipterocarp forests", "Open savannahs", "Mangroves"], answer: [1], explain: "~60 species vs <5 in Africa or the Americas." },
     { id: "g6", lesson: "g-nepenthes", q: "Nepenthes pitcher plants do best in habitats with…", options: ["Rich soil and deep shade", "Nutrient-poor soil and plenty of light", "Salt water", "Alkaline limestone only"], answer: [1], explain: "Carnivory supplies N and P; pitchers are costly." },
+    { id: "g8", lesson: "g-drivers", q: "The greatest driver of biodiversity loss in MARINE environments is…", options: ["Land-use change", "Direct exploitation (e.g., fishing)", "Invasive species", "Light pollution"], answer: [1], explain: "On land it's land-use change." },
+    { id: "g9", lesson: "g-drivers", q: "Why does nutrient addition reduce plant diversity?", options: ["It kills all plants", "A few fast-growing species come to dominate", "It acidifies the soil", "It attracts herbivores"], answer: [1], explain: "Especially damaging in low-nutrient habitats." },
     { id: "g7", lesson: "g-guide", q: "Which habitat description would the lecturer prefer in a nature video?", options: ["“Regenerating secondary forest”", "“Adinandra belukar (a native species-dominated secondary forest)”", "“Jungle”", "“Green area”"], answer: [1], explain: "Use the classifications taught." },
   ],
   cheatsheet: `<ul>

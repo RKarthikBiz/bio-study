@@ -5,7 +5,7 @@
   const MODS = (window.MODULES || []).slice().sort((a, b) => (a.bonus ? 1 : 0) - (b.bonus ? 1 : 0));
   const STATUS_NAMES = {
     CR: "Critically Endangered", EN: "Endangered", VU: "Vulnerable", NT: "Near Threatened",
-    LC: "Least Concern", DD: "Data Deficient", NEx: "Nationally Extinct", NA: "Not native / not assessed",
+    LC: "Least Concern", DD: "Data Deficient", NEx: "Nationally Extinct", NA: "Not native / not assessed", NE: "Not Evaluated",
   };
   const items = {};     // id -> card or question
   const species = [];   // all species with module ref

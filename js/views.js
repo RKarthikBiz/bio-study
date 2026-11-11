@@ -359,7 +359,7 @@
 
   /* ---------- MOCK EXAM ---------- */
   /* Fixed practice papers: same questions every time (seeded), no question repeated across papers. */
-  const N_PAPERS = 6, PAPER_LEN = 20, PAPER_MINS = 20;
+  const N_PAPERS = 6, PAPER_LEN = 60, PAPER_MINS = 60; // the real exam is 60 MCQs in 60 minutes
   let papersCache = null;
   function seeded(seed) { return () => { seed |= 0; seed = (seed + 0x6d2b79f5) | 0; let t = Math.imul(seed ^ (seed >>> 15), 1 | seed); t = (t + Math.imul(t ^ (t >>> 7), 61 | t)) ^ t; return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
   function seededShuffle(a, rnd) { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
@@ -375,8 +375,8 @@
     const mods = Object.keys(byMod).sort();
     papersCache = Array.from({ length: N_PAPERS }, (_, k) => {
       const qs = []; let i = k; // start each paper on a different module so topics rotate
-      while (qs.length < 14 && mods.some((m) => byMod[m].length)) { const arr = byMod[mods[i++ % mods.length]]; if (arr.length) qs.push(arr.shift()); }
-      qs.push(...photos.splice(0, 3), ...facts.splice(0, PAPER_LEN - qs.length - 3));
+      while (qs.length < 42 && mods.some((m) => byMod[m].length)) { const arr = byMod[mods[i++ % mods.length]]; if (arr.length) qs.push(arr.shift()); }
+      qs.push(...photos.splice(0, 9), ...facts.splice(0, PAPER_LEN - qs.length - 9));
       return { id: `practice${k + 1}`, title: `Practice Mock ${k + 1}`, qs: seededShuffle(qs, rnd), mins: PAPER_MINS };
     });
     return papersCache;
@@ -391,17 +391,17 @@
       const st = stats(p.id);
       return `<div class="card paper ${extra}">
         <div class="row spread"><h3 style="margin:0">${p.title}</h3>${p.id === "real" ? '<span class="tag">Official</span>' : ""}</div>
-        <p class="muted small" style="margin:6px 0 10px">${p.qs.length} questions · ${p.mins} minutes${p.id === "real" ? " · the exact mock quiz from your course" : ""}</p>
+        <p class="muted small" style="margin:6px 0 10px">${p.qs.length} questions · ${p.mins} minutes${p.id === "real" ? " · the exact mock quiz from your course (shorter than the real exam)" : ""}</p>
         <div class="row spread"><span class="small">${st ? `Best <b>${st.best}%</b> · ${st.n} attempt${st.n > 1 ? "s" : ""}` : "Not attempted yet"}</span>
         <button class="btn sm ${p.id === "real" ? "pink" : ""}" data-start="${p.id}">${st ? "Retake" : "Start"}</button></div></div>`;
     };
     const papers = practicePapers();
     app().innerHTML = `<h1>Mock exams</h1>
-      ${kopi("The real quiz is <b>closed-book MCQ</b>: about 20 questions in 20 minutes, some with several right answers. Each paper is fixed, so you can retake it and watch your score climb.", "think")}
+      ${kopi("The real exam is <b>60 MCQs in 60 minutes</b> on 12 Nov — about a minute per question, some with several right answers. Each practice paper matches that pace and is fixed, so you can retake it and watch your score climb.", "think")}
       <h2 style="margin-top:20px">Real mock test</h2>
       ${paperCard(real, "real")}
       <h2 style="margin-top:20px">Practice mocks</h2>
-      <p class="muted small">Six fixed papers with no repeated questions between them, covering every module.</p>
+      <p class="muted small">Six full-length papers (60 questions, 60 minutes) with no repeated questions between them, covering every module.</p>
       <div class="grid g2">${papers.map((p) => paperCard(p)).join("")}</div>
       <h2 style="margin-top:20px">Random mix</h2>
       <div class="card stack">
